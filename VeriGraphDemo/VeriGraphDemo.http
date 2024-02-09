@@ -1,0 +1,6 @@
+@VeriGraphDemo_HostAddress = http://localhost:5081
+
+GET {{VeriGraphDemo_HostAddress}}/graphdemo/
+Accept: application/json
+
+###
